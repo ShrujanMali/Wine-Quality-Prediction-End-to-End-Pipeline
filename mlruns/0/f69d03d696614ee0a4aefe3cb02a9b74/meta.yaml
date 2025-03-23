@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/malis/OneDrive/Desktop/Shrujan/mlops/End-to-end-Machine-Learning-project-with-mlflow/mlruns/0/f69d03d696614ee0a4aefe3cb02a9b74/artifacts
+end_time: 1742744647146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f69d03d696614ee0a4aefe3cb02a9b74
+run_name: judicious-slug-844
+run_uuid: f69d03d696614ee0a4aefe3cb02a9b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742744611047
+status: 3
+tags: []
+user_id: malis

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/malis/OneDrive/Desktop/Shrujan/mlops/End-to-end-Machine-Learning-project-with-mlflow/mlruns/0/5699a11bffa3419a8110ac61b06a981a/artifacts
+end_time: 1742750725667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5699a11bffa3419a8110ac61b06a981a
+run_name: bright-owl-996
+run_uuid: 5699a11bffa3419a8110ac61b06a981a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742750711066
+status: 3
+tags: []
+user_id: malis

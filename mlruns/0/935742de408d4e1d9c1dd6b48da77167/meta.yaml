@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/malis/OneDrive/Desktop/Shrujan/mlops/End-to-end-Machine-Learning-project-with-mlflow/mlruns/0/935742de408d4e1d9c1dd6b48da77167/artifacts
+end_time: 1742749979081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 935742de408d4e1d9c1dd6b48da77167
+run_name: rebellious-lark-445
+run_uuid: 935742de408d4e1d9c1dd6b48da77167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742749966526
+status: 3
+tags: []
+user_id: malis

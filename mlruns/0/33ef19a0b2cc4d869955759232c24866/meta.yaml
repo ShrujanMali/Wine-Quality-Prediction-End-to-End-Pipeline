@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/malis/OneDrive/Desktop/Shrujan/mlops/End-to-end-Machine-Learning-project-with-mlflow/mlruns/0/33ef19a0b2cc4d869955759232c24866/artifacts
+end_time: 1742750866239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33ef19a0b2cc4d869955759232c24866
+run_name: fortunate-steed-439
+run_uuid: 33ef19a0b2cc4d869955759232c24866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742750852607
+status: 3
+tags: []
+user_id: malis
